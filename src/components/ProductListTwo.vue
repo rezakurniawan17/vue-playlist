@@ -20,7 +20,6 @@ export default {
       return this.$store.getters.productSales
     }
   }
-  
 }
 </script>
 
